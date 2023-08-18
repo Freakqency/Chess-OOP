@@ -1,0 +1,2 @@
+#### Description 
+Implemented a GUI based chess game in JAVA for two-players that implements all major OOP concepts. Techniques like backtracking and greedy approach was used to determine possible moves. Files were used for storing statistics related to the game
